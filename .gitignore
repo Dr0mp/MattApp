@@ -1,0 +1,35 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+.venv/
+.roto-venv/
+.sdmatte-venv/
+env/
+venv/
+
+# AI Models & Third-party Clones
+models/
+third_party/
+
+# Runtime Outputs & Drafts
+logs/
+.roto-seeds/
+.drafts/
+exports/
+results_index.json
+guidance_by_file.json
+
+# Archives & Temporary Files
+*.zip
+*.exe
+*.log
+*.tmp
+.env
+.DS_Store
+Thumbs.db
